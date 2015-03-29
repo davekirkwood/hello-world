@@ -11,4 +11,6 @@ package mypackage;
  */
 public class NewMyPackageClass {
 
+/*
+ External mod */
 }
