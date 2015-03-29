@@ -6,6 +6,9 @@
  */
 package mypackage;
 
+/**
+ * Comment
+ */
 public class NewMyPackageClass {
 
 }
