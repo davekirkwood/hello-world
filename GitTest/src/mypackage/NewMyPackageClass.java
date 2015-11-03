@@ -22,7 +22,7 @@ public class NewMyPackageClass {
 	// Instructions for conflict:
 	/*
 	 * 1) Commit files (as if CVS) - goes to Branches/Local/master below.
-	 * Try to commit master branch (in local/master) -> Tells us non fast-forward -> OK.
+	 * Try to "Push branch" master branch (in local/master) -> Tells us non fast-forward -> OK.
 	 * Right click on Project + team/Fetch from upstream.
 	 * Conflict icon is shown in package exp - fix it manually.
 	 * When fixed - team/add to index.
