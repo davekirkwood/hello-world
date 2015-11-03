@@ -18,4 +18,9 @@ public class NewMyPackageClass {
 	// 1) Conflict in Github.
 	// 2) Another conflict in Githbb.
 	// Change done in eclipse/firstbranch.
+	
+	// Instructions for conflict:
+	/*
+	 * 
+	 */
 }
