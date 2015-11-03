@@ -15,8 +15,4 @@ public class NewMyPackageClass {
  External mod */
 	
 	// New mod in eclipse (3/11/15)
-	// New mod on Github
-	// Another mod on Github
-	// New mod in eclipse.
-	// Yet another mod in Githib.
 }
