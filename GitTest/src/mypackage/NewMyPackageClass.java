@@ -15,6 +15,7 @@ public class NewMyPackageClass {
  External mod */
 	
 	// New mod in eclipse (3/11/15)
-	// Conflict in Github2.
+	// 1) Conflict in Github.
+	// 2) Another conflict in Githbb.
 	// Change done in eclipse/firstbranch.
 }
