@@ -21,6 +21,8 @@ public class NewMyPackageClass {
 	
 	// Instructions for conflict:
 	/*
+	 * Commit files (as if CVS) - goes to Branches/Local/master below.
+	 * 
 	 * 
 	 */
 }
