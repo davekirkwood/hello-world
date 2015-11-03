@@ -16,4 +16,5 @@ public class NewMyPackageClass {
 	
 	// New mod in eclipse (3/11/15)
 	// Conflict in Github2.
+	// Change done in eclipse/firstbranch.
 }
