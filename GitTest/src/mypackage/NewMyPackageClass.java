@@ -28,4 +28,13 @@ public class NewMyPackageClass {
 	 * When fixed - team/add to index.
 	 * Goto 1.
 	 */
+	
+	// To work on BRanch.
+	/*
+	 * Right click on remote branch (remote tracking) + create branch + name.
+	 * Double-click on branches to change to branch in workspace.
+	 * When commit on branch - branch will be different to master (see hascode numbers).
+	 * To merge to master, switch (double click) on master, click on branch and merge.
+	 */
 }
+
